@@ -8,10 +8,6 @@ function testArray() {
         x = a + b;
     }
     return x;
-
-
-
-
 }
 
 let res = testArray(5);
